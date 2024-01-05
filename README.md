@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a current Master of Science in Data Science student at the University of Michigan 〽️ planning to graduate May 2025.
+
 <!--
 **ronenh24/ronenh24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
