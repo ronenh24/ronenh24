@@ -1,6 +1,6 @@
-### Hi there 👋
+Hi there 👋
 
-I am currently pursuing the Master of Science in Data Science at the University of Michigan 〽️. I graduated with the Bachelor of Science in ACMS - Discrete Math and Algorithms from the University of Washington ☔️.
+I am pursuing the Master of Science in Data Science at the University of Michigan 〽️. I graduated with the Bachelor of Science in ACMS - Discrete Math and Algorithms from the University of Washington ☔️.
 
 <!--
 **ronenh24/ronenh24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
